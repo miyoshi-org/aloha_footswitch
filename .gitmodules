@@ -1,0 +1,3 @@
+[submodule "3rd_party/footswitch"]
+	path = 3rd_party/footswitch
+	url = https://github.com/rgerganov/footswitch.git
